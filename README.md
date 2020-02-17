@@ -1,6 +1,6 @@
 <p align="center">
 :om:</br>
-<img src="docs/_static/MakeToI.png" width=100>
+<img src="docs/_static/MakeToI.png" width=80>
 </p>
 
 # TOIplug
